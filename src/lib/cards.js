@@ -3,40 +3,40 @@ export const GAME_ITEM = 'game item cards'
 export const TALES_SERIES = 'tales series cards'
 
 export const COVERS = {
-  [AESPA]: '/src/assets/images/aespa-cover.png',
-  [GAME_ITEM]: '/src/assets/images/cover.png',
-  [TALES_SERIES]: '/src/assets/images/tales-cover.jpg'
+  [AESPA]: '/images/aespa-cover.png',
+  [GAME_ITEM]: '/images/cover.png',
+  [TALES_SERIES]: '/images/tales-cover.jpg'
 }
 
 export const GAME_ITEM_CARDS = [
   {
     name: 'Helmet',
-    src: '/src/assets/images/helmet-1.png',
+    src: '/images/helmet-1.png',
     matched: false
   },
   {
     name: 'Potion',
-    src: '/src/assets/images/potion-1.png',
+    src: '/images/potion-1.png',
     matched: false
   },
   {
     name: 'Ring',
-    src: '/src/assets/images/ring-1.png',
+    src: '/images/ring-1.png',
     matched: false
   },
   {
     name: 'Scroll',
-    src: '/src/assets/images/scroll-1.png',
+    src: '/images/scroll-1.png',
     matched: false
   },
   {
     name: 'Shield',
-    src: '/src/assets/images/shield-1.png',
+    src: '/images/shield-1.png',
     matched: false
   },
   {
     name: 'Sword',
-    src: '/src/assets/images/sword-1.png',
+    src: '/images/sword-1.png',
     matched: false
   }
 ]
@@ -44,32 +44,32 @@ export const GAME_ITEM_CARDS = [
 export const AESPA_CARDS = [
   {
     name: 'Karina',
-    src: '/src/assets/images/karina.jpg',
+    src: '/images/karina.jpg',
     matched: false
   },
   {
     name: 'Karina-1',
-    src: '/src/assets/images/karina-1.jpg',
+    src: '/images/karina-1.jpg',
     matched: false
   },
   {
     name: 'Winter',
-    src: '/src/assets/images/winter.jpg',
+    src: '/images/winter.jpg',
     matched: false
   },
   {
     name: 'Winter-1',
-    src: '/src/assets/images/winter-1.jpg',
+    src: '/images/winter-1.jpg',
     matched: false
   },
   {
     name: 'Ningning',
-    src: '/src/assets/images/ningning.jpg',
+    src: '/images/ningning.jpg',
     matched: false
   },
   {
     name: 'Giselle',
-    src: '/src/assets/images/giselle.jpg',
+    src: '/images/giselle.jpg',
     matched: false
   }
 ]
@@ -77,32 +77,32 @@ export const AESPA_CARDS = [
 export const TALES_SERIES_CARDS = [
     {
       name: 'Alphen',
-      src: '/src/assets/images/alphen.jpg',
+      src: '/images/alphen.jpg',
       matched: false
     },
     {
       name: 'Velvet',
-      src: '/src/assets/images/velvet.jpg',
+      src: '/images/velvet.jpg',
       matched: false
     },
     {
       name: 'Shionne',
-      src: '/src/assets/images/shionne.jpg',
+      src: '/images/shionne.jpg',
       matched: false
     },
     {
       name: 'Rinwell',
-      src: '/src/assets/images/rinwell.jpg',
+      src: '/images/rinwell.jpg',
       matched: false
     },
     {
       name: 'Jude Milla',
-      src: '/src/assets/images/jude-milla.jpg',
+      src: '/images/jude-milla.jpg',
       matched: false
     },
     {
       name: 'Edna',
-      src: '/src/assets/images/edna.jpg',
+      src: '/images/edna.jpg',
       matched: false
     }
   ]
